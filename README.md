@@ -48,7 +48,7 @@ Membuat database MySQL dengan nama `latihan1` melalui phpMyAdmin, kemudian membu
 
 **Screenshot:**
 <!-- Tambahkan screenshot database di sini -->
-[Gambar](Screenshot/Database.png)
+![Gambar](Screenshot/Database.png)
 
 ### 2. Membuat Koneksi Database
 Membuat file `koneksi.php` untuk menghubungkan aplikasi PHP dengan database MySQL.
@@ -57,7 +57,7 @@ File ini digunakan agar setiap halaman PHP dapat mengakses database `latihan1`.
 
 **Screenshot:**
 <!-- Tambahkan screenshot koneksi.php di sini -->
-[Gambar](Screenshot/koneksi.png)
+![Gambar](Screenshot/koneksi.png)
 
 ### 3. Menampilkan Data Barang (Read)
 Membuat file `index.php` untuk mengambil dan menampilkan data barang dari tabel `data_barang`.
@@ -73,7 +73,7 @@ Data yang ditampilkan meliputi:
 
 **Screenshot:**
 <!-- Tambahkan screenshot index.php di sini -->
-[Gambar](Screenshot/index.png)
+![Gambar](Screenshot/index.png)
 
 ### 4. Menambahkan Data Barang (Create)
 Membuat file `tambah.php` untuk menambahkan data barang baru ke dalam database.
@@ -82,7 +82,7 @@ Form tambah barang berisi nama barang, kategori, harga beli, harga jual, stok, d
 
 **Screenshot:**
 <!-- Tambahkan screenshot tambah.php di sini -->
-[Gambar](Screenshot/tambah.png)
+![Gambar](Screenshot/tambah.png)
 
 ### 5. Mengubah Data Barang (Update)
 Membuat file `ubah.php` untuk mengubah informasi barang yang sudah tersimpan di database berdasarkan ID barang.
@@ -91,7 +91,7 @@ Data yang dapat diubah meliputi nama, kategori, harga beli, harga jual, stok, da
 
 **Screenshot:**
 <!-- Tambahkan screenshot ubah.php di sini -->
-[Gambar](Screenshot/ubah.png)
+![Gambar](Screenshot/ubah.png)
 
 ### 6. Menghapus Data Barang (Delete)
 Membuat file `hapus.php` untuk menghapus data barang dari database berdasarkan ID barang.
@@ -100,7 +100,7 @@ Setelah data dihapus, halaman akan kembali menampilkan daftar barang.
 
 **Screenshot:**
 <!-- Tambahkan screenshot hapus.php di sini -->
-[Gambar](Screenshot/delete.png)
+![Gambar](Screenshot/delete.png)
 
 ## Hasil Praktikum
 Aplikasi pengelolaan data barang berhasil dibuat menggunakan PHP dan MySQL. Fitur menampilkan, mengubah, dan menghapus data telah dicoba. Fitur penambahan data sudah dibuat, tetapi belum dicatat sebagai hasil pengujian.
